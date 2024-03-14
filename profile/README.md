@@ -4,7 +4,8 @@ We are FRC Team 7415, representing de Toledo High School in West Hills, CA, sinc
 
 ## 🔗 Links
 ```
-* Website: team7415.org
+* Our Website: team7415.org
+* Our School's Website: dths.org
 * Email: robotics@dths.org
 * Instagram: @frc_7415
 ```
